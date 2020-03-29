@@ -12,7 +12,7 @@ Simple Powershell-Script to deactivate and activate the Windows-Key, helpful for
 - Navigate to the directory where your script is stored
   - > Set-Location C:\Users\<yourUsername>\Downloads
 - Execute script
-  - > .\de-Activate.WinKey.ps1
+  - > .\de-Activate_WinKey.ps1
 - (if powershell warns you that executing scripts is disabled, just enter yes. This allows the execution only for this action. After you close the window, it will go back to default (disabled)
 
 
